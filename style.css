@@ -497,6 +497,8 @@ body .skills__list .skills__item {
     display: inline-block;
     height: 9px;
     width: 9px;
+    font-size: 10px;
+    color: transparent;
     margin: 0 3px 0 0;
     border-radius: 50%;
 }
@@ -515,7 +517,6 @@ body .skills__list .skills__item {
 .c--505476 .skills__item.active {
     background: #505476 !important;
 }
-
 .c--505476 .skills__item {
     background: #cbccd6;
 }
