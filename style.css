@@ -161,9 +161,10 @@ hr {
 }
 
 .section--heading-group {
+    position: relative;
     display: block;
     margin: 0;
-    padding: 0 0 6px 0;
+    padding: 10px 0 10px 0;
     page-break-inside: avoid !important
 }
 
@@ -237,6 +238,7 @@ hr {
     font-size: 13px;
     padding: 0;
     margin: 0
+    backgro
 }
 
 .section--heading {
@@ -627,4 +629,7 @@ body .skills__list .skills__item {
 
 .c--316834 .avatar__bg {
     border-color: #316834 !important;
+}
+.section--date-top { 
+    top: 10px;
 }
